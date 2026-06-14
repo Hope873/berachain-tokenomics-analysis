@@ -35,7 +35,7 @@ The relationship between BERA inflation distributions and sticky Total Value Loc
 
 Below is a 12-month simulation tracking the projected velocity of BERA emissions relative to targeted Ecosystem Pool growth under optimal validation weight delegation:
 
-![Berachain Supply Mechanics](assets/supply_chart.png)
+![Berachain Supply Mechanics](supply_chart.png)
 
 ### Key Takeaway from Model:
 The chart highlights a critical "Velocity Threshold" around Month 6. As cumulative BERA emissions scale linearly, the ecosystem must scale its TVL exponentially to protect the token from inflationary sell-pressure. This places massive pressure on the **HONEY** stablecoin minting volumes to absorb market volatility.
